@@ -25,4 +25,5 @@ print(f'\n{name.capitalize()}, you must be someone who loves {color.lower()} thi
 	f'hangs out with {animal}s,\n'
 	f'and enjoys {hobby.lower()} in your free time!')
 time.sleep(1)
-print(f'\nThanks for playing, i hope you have learned a lot about yourself {name}, have a wonderful day!')
+print(f'\nThanks for playing, i hope you have learned a lot about yourself {name}, '
+      	f'\nhave a wonderful day!')
