@@ -14,21 +14,27 @@ This repository contains a simple interactive Python script that engages users i
 
    First, clone the repository to your local machine. Replace `<repository-url>` with the URL of your GitHub repository.
 
-    ```bash
+   ```
    git clone <repository-url>
 
 ## Ensure Python is Installed
 
 You can check the version with:
-
-  `python3 --version`
+   ``` 
+   python3 --version
+   ```
 If python3 is not installed, install with
-  `sudo apt update`
-  `sudo apt install python3`
+   ```
+   sudo apt update
+   ```
 
+    sudo apt install python3
+   
 ## Running the script
 1. Make the script executable
-  `chmod +x script.py`
-2. Run the script
-   `./script.py`
-3. Follow the on-screen prompts
+   ```
+   chmod +x script.py
+3. Run the script
+   ```
+   ./script.py
+5. Follow the on-screen prompts
